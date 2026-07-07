@@ -1,0 +1,165 @@
+[
+  {
+    "id": "spa-laqua-tokyo",
+    "url": "https://www.laqua.jp/spa/",
+    "name": {
+      "ja": "スパ ラクーア",
+      "en": "Spa LaQua"
+    },
+    "prefecture_code": 13,
+    "prefecture": {
+      "ja": "東京都",
+      "en": "Tokyo"
+    },
+    "city": {
+      "ja": "文京区",
+      "en": "Bunkyo City"
+    },
+    "address": {
+      "ja": "東京都文京区春日1-1-1 東京ドームシティ",
+      "en": "Tokyo Dome City, 1-1-1 Kasuga, Bunkyo City, Tokyo"
+    },
+    "geo": {
+      "lat": 35.7061,
+      "lng": 139.7527
+    },
+    "access": {
+      "ja": "後楽園駅・水道橋駅から徒歩すぐ",
+      "en": "Short walk from Korakuen / Suidobashi Station"
+    },
+    "stay": false,
+    "gender_policy": "separate",
+    "view": {
+      "rating": 2,
+      "ja": "都心の屋内スパで眺望は控えめ",
+      "en": "Urban indoor spa; limited view",
+      "_inferred": true
+    },
+    "work_friendly": {
+      "rating": 3,
+      "wifi": true,
+      "power": null,
+      "ja": "リラックスラウンジがあり滞在しやすい",
+      "en": "Has relaxation lounges; comfortable for longer stays",
+      "_inferred": true
+    },
+    "recommended_for": [
+      "solo",
+      "friends",
+      "couple"
+    ],
+    "price": {
+      "ja": "大人 約3,000円〜（時間帯・時期で変動、公式サイトで要確認）",
+      "en": "Adults from approx. 3,000 JPY (varies; check official site)"
+    },
+    "food": {
+      "available": true,
+      "ja": "館内にレストラン・カフェあり",
+      "en": "Restaurants and cafes on site"
+    },
+    "sauna": {
+      "temp": null,
+      "cold_bath": null,
+      "loyly": true,
+      "ja": "各種サウナ・ロウリュあり",
+      "en": "Various saunas incl. loyly"
+    },
+    "onsen": {
+      "spring_type": "天然温泉",
+      "flowing": null,
+      "ja": "地下約1,700mから汲み上げた天然温泉",
+      "en": "Natural hot spring drawn from approx. 1,700m underground"
+    },
+    "unique_point": {
+      "ja": "都心・東京ドームシティの大型天然温泉スパ。アクセス至便",
+      "en": "Large natural hot-spring spa in central Tokyo Dome City with excellent access"
+    },
+    "personal_comment": {
+      "ja": "都心で気軽に整えたいときに便利な一軒。",
+      "en": "A handy spot to relax and recharge in central Tokyo.",
+      "_inferred": true
+    },
+    "photo": null,
+    "added_at": "2026-07-08",
+    "source_issue": null
+  },
+  {
+    "id": "sauna-shikiji-shizuoka",
+    "url": "https://saunashikiji.jp/",
+    "name": {
+      "ja": "サウナしきじ",
+      "en": "Sauna Shikiji"
+    },
+    "prefecture_code": 22,
+    "prefecture": {
+      "ja": "静岡県",
+      "en": "Shizuoka"
+    },
+    "city": {
+      "ja": "静岡市駿河区",
+      "en": "Suruga Ward, Shizuoka City"
+    },
+    "address": {
+      "ja": "静岡県静岡市駿河区敷地2-25-1",
+      "en": "2-25-1 Shikiji, Suruga Ward, Shizuoka City, Shizuoka"
+    },
+    "geo": null,
+    "access": {
+      "ja": "JR静岡駅からバス・タクシー",
+      "en": "Bus or taxi from JR Shizuoka Station"
+    },
+    "stay": false,
+    "gender_policy": "separate",
+    "view": {
+      "rating": null,
+      "ja": null,
+      "en": null
+    },
+    "work_friendly": {
+      "rating": 1,
+      "wifi": null,
+      "power": null,
+      "ja": "サウナに集中する施設で作業向きではない",
+      "en": "A dedicated sauna facility; not suited for PC work",
+      "_inferred": true
+    },
+    "recommended_for": [
+      "solo",
+      "friends"
+    ],
+    "price": {
+      "ja": "男女で料金が異なる（公式サイトで要確認）",
+      "en": "Prices differ by gender area (check official site)"
+    },
+    "food": {
+      "available": true,
+      "ja": "館内にお食事処あり",
+      "en": "Dining area available on site"
+    },
+    "sauna": {
+      "temp": null,
+      "cold_bath": "天然水かけ流しの水風呂",
+      "loyly": null,
+      "ja": "天然水の水風呂が全国的に有名",
+      "en": "Famous nationwide for its natural spring-water cold bath"
+    },
+    "onsen": {
+      "spring_type": null,
+      "flowing": null,
+      "ja": null,
+      "en": null
+    },
+    "unique_point": {
+      "ja": "『サウナの聖地』と称される天然水かけ流しの水風呂",
+      "en": "Revered as a 'sauna mecca' for its flowing natural spring-water cold bath"
+    },
+    "personal_comment": {
+      "ja": "水風呂の水質を体験しに一度は訪れたい一軒。",
+      "en": "Worth visiting at least once for the quality of the cold bath water.",
+      "_inferred": true
+    },
+    "photo": null,
+    "added_at": "2026-07-08",
+    "source_issue": null
+  }
+]

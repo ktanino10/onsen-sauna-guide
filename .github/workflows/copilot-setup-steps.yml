@@ -1,0 +1,33 @@
+name: "Copilot Setup Steps"
+
+# Prepare Copilot's ephemeral environment so it can run scripts/build_readme.py.
+# This workflow also runs on its own changes so you can validate it from the Actions tab.
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - .github/workflows/copilot-setup-steps.yml
+  pull_request:
+    paths:
+      - .github/workflows/copilot-setup-steps.yml
+
+jobs:
+  # The job MUST be named `copilot-setup-steps` for Copilot to pick it up.
+  copilot-setup-steps:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v5
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Validate data files and build script
+        run: |
+          python -c "import json; json.load(open('data/spots.json')); json.load(open('data/prefectures.json')); print('spots.json & prefectures.json are valid JSON')"
+          python -m py_compile scripts/build_readme.py
+          echo "build_readme.py compiles cleanly"

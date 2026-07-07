@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>♨️ 温泉サウナ手帖 / Onsen &amp; Sauna Guide</title>
+  <meta name="description" content="実際に入って良かった温泉・サウナを、都道府県順に紹介するガイド。A curated guide to hot springs and saunas in Japan, ordered by prefecture.">
+  <meta property="og:title" content="温泉サウナ手帖 / Onsen &amp; Sauna Guide">
+  <meta property="og:description" content="実際に入って良かった温泉・サウナを都道府県順に紹介。">
+  <meta property="og:type" content="website">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600;700;800&family=Noto+Sans+JP:wght@400;500;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+        integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="">
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="brand">
+      <span class="brand-emoji">♨️🧖</span>
+      <div>
+        <h1 class="brand-title">温泉サウナ手帖</h1>
+        <p class="brand-sub en">Onsen &amp; Sauna Guide</p>
+      </div>
+    </div>
+    <button id="lang-toggle" class="lang-toggle en" type="button">English</button>
+  </header>
+
+  <p class="tagline" data-i18n="tagline">実際に入って「良かった！」と思えた温泉・サウナを、都道府県順に紹介します。</p>
+
+  <section class="controls" aria-label="filters">
+    <div class="search-wrap">
+      <span class="search-icon">🔍</span>
+      <input id="search" type="search" data-i18n-attr="placeholder" data-i18n="search_placeholder"
+             placeholder="名前・エリアで検索">
+    </div>
+
+    <div class="filter-row">
+      <div class="chip-group" id="tag-filters">
+        <label class="chip"><input type="checkbox" data-filter="stay"><span data-i18n="f_stay">🛏 宿泊可</span></label>
+        <label class="chip"><input type="checkbox" data-filter="view"><span data-i18n="f_view">🌄 景色◎</span></label>
+        <label class="chip"><input type="checkbox" data-filter="work"><span data-i18n="f_work">💻 作業向き</span></label>
+        <label class="chip"><input type="checkbox" data-filter="food"><span data-i18n="f_food">🍽 飲食あり</span></label>
+        <span class="chip-sep" aria-hidden="true"></span>
+        <label class="chip"><input type="checkbox" data-filter="solo"><span data-i18n="f_solo">🧑 一人</span></label>
+        <label class="chip"><input type="checkbox" data-filter="friends"><span data-i18n="f_friends">👥 友人</span></label>
+        <label class="chip"><input type="checkbox" data-filter="couple"><span data-i18n="f_couple">👫 男女</span></label>
+      </div>
+
+      <div class="select-wrap">
+        <select id="gender-select" aria-label="gender">
+          <option value="" data-i18n="gender_all">男女区分：すべて</option>
+          <option value="separate" data-i18n="gender_separate">男女別</option>
+          <option value="men_only" data-i18n="gender_men">男性専用</option>
+          <option value="women_only" data-i18n="gender_women">女性専用</option>
+          <option value="mixed" data-i18n="gender_mixed">混浴</option>
+        </select>
+        <select id="pref-select" aria-label="prefecture">
+          <option value="" data-i18n="pref_all">すべての都道府県</option>
+        </select>
+        <button id="reset" class="reset-btn" type="button" data-i18n="reset">リセット</button>
+      </div>
+    </div>
+
+    <p class="result-count"><span id="count">0</span> <span data-i18n="count_unit">件</span></p>
+  </section>
+
+  <main class="layout">
+    <div class="list-col">
+      <div id="spots"></div>
+      <p id="empty" class="empty-msg" hidden data-i18n="no_results">該当する施設がありません。</p>
+    </div>
+    <aside class="map-col">
+      <div id="map" role="region" aria-label="map"></div>
+      <p class="map-hint" data-i18n="map_hint">📍 座標がある施設は地図に表示されます。</p>
+    </aside>
+  </main>
+
+  <footer class="site-footer">
+    <p data-i18n="footer_add">施設の追加は Issue に公式サイトの URL を貼って Copilot をアサインするだけ。</p>
+    <p class="muted" data-i18n="footer_note">料金・営業情報は変わることがあります。必ず各施設の公式サイトでご確認ください。</p>
+  </footer>
+
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+          integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script src="assets/app.js"></script>
+</body>
+</html>

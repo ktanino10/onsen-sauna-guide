@@ -1,0 +1,22 @@
+name: "♨️ 温泉サウナを追加 / Add a spot"
+description: "施設の公式サイトURLを貼るだけ。Copilotをアサインすると自動で追加されます。/ Just paste the URL, then assign Copilot."
+title: "[Add] "
+labels: ["add-spot"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        施設の**公式サイトのURL**を貼り付けて Issue を作成し、この Issue を **Copilot にアサイン**してください。
+        Copilot がページを読み取り、`data/spots.json`・README・公開サイトを自動で更新します。入力は URL だけで大丈夫です。
+
+        ---
+        Paste the facility's **official website URL**, create the issue, then **assign it to Copilot**.
+        Copilot reads the page and updates `data/spots.json`, the READMEs and the site automatically. The URL is all you need.
+  - type: input
+    id: url
+    attributes:
+      label: "公式サイトURL / Official site URL"
+      description: "温泉・サウナ施設の公式ページのURL / URL of the onsen or sauna facility"
+      placeholder: "https://example.com/"
+    validations:
+      required: true

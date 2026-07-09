@@ -37,6 +37,22 @@ Each entry covers location, whether you can stay overnight, the men's/women's po
 
 ### 東京都 / Tokyo
 
+#### [PARADISE Otemachi](https://paradise-otemachi.com/)
+
+📍 Taisei Otemachi Building 25F/26F, 2-1-1 Otemachi, Chiyoda City, Tokyo
+
+- **Access:** About 3 min via Otemachi Station Exit B2a, or about 5 min on foot from JR Tokyo Station Marunouchi North Exit
+- **Stay:** Day-use only
+- **Gender:** Men only
+- **Go with:** Solo / Friends
+- **View:** ★★★★★ — High-floor 25F-26F setting with sweeping city views (auto-inferred)
+- **Work-friendly:** ★★★★★ — Coworking seats offer Wi-Fi and power, plus online booths and free coffee (auto-inferred)
+- **Price:** Morning bath ¥1,408, 1 hour ¥2,178, 3 hours ¥3,278, then ¥1,100 per additional hour (tax incl.)
+- **Food & drink:** Yes — Free Sarutahiko coffee and water are available in the 25F coworking area
+- **Sauna:** Multiple saunas with self/auto loyly plus a large cold-plunge pool on 26F
+- **✨ What sets it apart:** A high-rise complex above Otemachi Station combining sauna, spa, gym, and coworking
+- **💬 Note:** A polished city spot where you can go from work straight into sauna mode. (auto-inferred)
+
 #### [Spa LaQua](https://www.laqua.jp/spa/)
 
 📍 Tokyo Dome City, 1-1-1 Kasuga, Bunkyo City, Tokyo

@@ -1,5 +1,85 @@
 [
   {
+    "id": "paradise-otemachi-tokyo",
+    "url": "https://paradise-otemachi.com/",
+    "name": {
+      "ja": "PARADISE 大手町",
+      "en": "PARADISE Otemachi"
+    },
+    "prefecture_code": 13,
+    "prefecture": {
+      "ja": "東京都",
+      "en": "Tokyo"
+    },
+    "city": {
+      "ja": "千代田区",
+      "en": "Chiyoda City"
+    },
+    "address": {
+      "ja": "東京都千代田区大手町2丁目1-1 大成大手町ビル25・26階",
+      "en": "Taisei Otemachi Building 25F/26F, 2-1-1 Otemachi, Chiyoda City, Tokyo"
+    },
+    "geo": null,
+    "access": {
+      "ja": "大手町駅B2a出口直結で徒歩約3分、JR東京駅丸の内北口から徒歩約5分",
+      "en": "About 3 min via Otemachi Station Exit B2a, or about 5 min on foot from JR Tokyo Station Marunouchi North Exit"
+    },
+    "stay": false,
+    "gender_policy": "men_only",
+    "view": {
+      "rating": 5,
+      "ja": "25〜26階の高層フロアから都心の景色を楽しめる",
+      "en": "High-floor 25F-26F setting with sweeping city views",
+      "_inferred": true
+    },
+    "work_friendly": {
+      "rating": 5,
+      "wifi": true,
+      "power": true,
+      "ja": "コワーキング席にWi-Fi・電源があり、オンラインブースや無料コーヒーも使える",
+      "en": "Coworking seats offer Wi-Fi and power, plus online booths and free coffee",
+      "_inferred": true
+    },
+    "recommended_for": [
+      "solo",
+      "friends"
+    ],
+    "price": {
+      "ja": "朝風呂1,408円、1時間2,178円、3時間3,278円、以降1時間ごとに1,100円（税込）",
+      "en": "Morning bath ¥1,408, 1 hour ¥2,178, 3 hours ¥3,278, then ¥1,100 per additional hour (tax incl.)"
+    },
+    "food": {
+      "available": true,
+      "ja": "25Fコワーキングで猿田彦珈琲とウォーターを無料提供",
+      "en": "Free Sarutahiko coffee and water are available in the 25F coworking area"
+    },
+    "sauna": {
+      "temp": null,
+      "cold_bath": "15℃・10℃の水風呂に加え、26Fに大型の水風呂プールあり",
+      "loyly": true,
+      "ja": "セルフロウリュやオートロウリュ対応の複数サウナと、26Fの大型水風呂プールが特徴",
+      "en": "Multiple saunas with self/auto loyly plus a large cold-plunge pool on 26F"
+    },
+    "onsen": {
+      "spring_type": null,
+      "flowing": null,
+      "ja": null,
+      "en": null
+    },
+    "unique_point": {
+      "ja": "大手町駅直結の高層ビルで、サウナ・スパ・ジム・コワーキングを一体で使える",
+      "en": "A high-rise complex above Otemachi Station combining sauna, spa, gym, and coworking"
+    },
+    "personal_comment": {
+      "ja": "仕事帰りにそのまま整いまで完結できる都会派の一軒。",
+      "en": "A polished city spot where you can go from work straight into sauna mode.",
+      "_inferred": true
+    },
+    "photo": null,
+    "added_at": "2026-07-09",
+    "source_issue": 1
+  },
+  {
     "id": "spa-laqua-tokyo",
     "url": "https://www.laqua.jp/spa/",
     "name": {

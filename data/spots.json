@@ -243,6 +243,90 @@
     "source_issue": null
   },
   {
+    "id": "ryusenji-no-yu-nagoya-moriyama",
+    "url": "https://www.ryusenjinoyu.com/moriyama/",
+    "name": {
+      "ja": "天空SPA HILLS 竜泉寺の湯 名古屋守山本店",
+      "en": "Tenku SPA Hills Ryusenji no Yu Nagoya Moriyama"
+    },
+    "prefecture_code": 23,
+    "prefecture": {
+      "ja": "愛知県",
+      "en": "Aichi"
+    },
+    "city": {
+      "ja": "名古屋市守山区",
+      "en": "Moriyama Ward, Nagoya City"
+    },
+    "address": {
+      "ja": "愛知県名古屋市守山区竜泉寺1丁目1501",
+      "en": "1501 Ryusenji 1-chome, Moriyama Ward, Nagoya City, Aichi"
+    },
+    "geo": {
+      "lat": 35.223982,
+      "lng": 136.987585
+    },
+    "access": {
+      "ja": "JR大曽根駅からゆとりーとライン「竜泉寺」バス停下車すぐ。車は名二環・小幡ICまたは松河戸ICから約5〜8分。無料大駐車場（約400台）完備",
+      "en": "Alight at Ryusenji bus stop via Yutorito Line from JR Ozone Station. By car, ~5–8 min from Obata IC or Matsukawado IC. Free parking for ~400 cars"
+    },
+    "stay": true,
+    "gender_policy": "separate",
+    "view": {
+      "rating": 4,
+      "ja": "展望露天風呂「天空ほたるの湯」から名古屋の夜景が楽しめる",
+      "en": "Panoramic open-air bath 'Tenku Hotaru no Yu' offers night views over Nagoya",
+      "_inferred": true
+    },
+    "work_friendly": {
+      "rating": 3,
+      "wifi": true,
+      "power": true,
+      "ja": "館内Wi-Fi・電源完備、岩盤浴エリアにリクライナーや1万冊の漫画コーナーあり",
+      "en": "Free Wi-Fi and power outlets throughout; banseki area has recliners and a 10,000-manga library",
+      "_inferred": true
+    },
+    "recommended_for": [
+      "solo",
+      "friends",
+      "couple"
+    ],
+    "price": {
+      "ja": "大人：平日850円・土日祝950円（朝風呂は各100円引き）。岩盤浴「フォレストヴィラ」：平日+600円・土日祝+800円。仮眠宿泊：+3,600円〜（税込）",
+      "en": "Adults: weekdays ¥850, weekends/holidays ¥950 (morning bath ¥100 off). Banseki 'Forest Villa': +¥600 weekdays / +¥800 weekends. Overnight rest from +¥3,600 (tax incl.)"
+    },
+    "food": {
+      "available": true,
+      "ja": "館内に食事処あり",
+      "en": "On-site dining available"
+    },
+    "sauna": {
+      "temp": 90,
+      "cold_bath": "シングル冷水風呂（8.8〜9℃）と深水風呂（16℃）",
+      "loyly": true,
+      "ja": "バズーカロウリュサウナ（毎時00分・30分にオートロウリュ）、メディサウナ（セルフロウリュ可）、黄土サウナ（約85〜90℃）、女性専用ソルトサウナ",
+      "en": "Bazooka Löyly Sauna (auto-löyly at :00 and :30 every hour), Medi Sauna (self-löyly), Ochre Sauna (approx. 85–90°C), women-only Salt Sauna"
+    },
+    "onsen": {
+      "spring_type": null,
+      "flowing": null,
+      "ja": "展望露天風呂「天空ほたるの湯」、高濃度炭酸泉、源泉風呂など多種の浴槽",
+      "en": "Open-air panoramic bath 'Tenku Hotaru no Yu', high-concentration carbonated bath, source bath, and more"
+    },
+    "unique_point": {
+      "ja": "毎時2回のバズーカロウリュ、シングル冷水風呂（約9℃）、展望露天風呂が揃い、岩盤浴「フォレストヴィラ」と1万冊の漫画でゆったりくつろげる大型複合施設",
+      "en": "Large complex featuring bi-hourly Bazooka Löyly, a ~9°C single cold bath, a panoramic open-air bath, and a banseki zone with 10,000 manga books"
+    },
+    "personal_comment": {
+      "ja": "サウナも景色も充実していて、一日中いられる名古屋随一のコスパ施設。",
+      "en": "Outstanding value with superb sauna and great views—you could easily spend a whole day here.",
+      "_inferred": true
+    },
+    "photo": null,
+    "added_at": "2026-07-09",
+    "source_issue": 6
+  },
+  {
     "id": "solaniwa-onsen-osaka",
     "url": "https://www.solaniwa.com/",
     "name": {

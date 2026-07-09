@@ -87,6 +87,25 @@ Each entry covers location, whether you can stay overnight, the men's/women's po
 - **✨ What sets it apart:** Revered as a 'sauna mecca' for its flowing natural spring-water cold bath
 - **💬 Note:** Worth visiting at least once for the quality of the cold bath water. (auto-inferred)
 
+### 愛知県 / Aichi
+
+#### [Tenku SPA Hills Ryusenji no Yu Nagoya Moriyama](https://www.ryusenjinoyu.com/moriyama/)
+
+📍 1501 Ryusenji 1-chome, Moriyama Ward, Nagoya City, Aichi
+
+- **Access:** Alight at Ryusenji bus stop via Yutorito Line from JR Ozone Station. By car, ~5–8 min from Obata IC or Matsukawado IC. Free parking for ~400 cars
+- **Stay:** Can stay overnight
+- **Gender:** Separate men's / women's
+- **Go with:** Solo / Friends / Couple
+- **View:** ★★★★☆ — Panoramic open-air bath 'Tenku Hotaru no Yu' offers night views over Nagoya (auto-inferred)
+- **Work-friendly:** ★★★☆☆ — Free Wi-Fi and power outlets throughout; banseki area has recliners and a 10,000-manga library (auto-inferred)
+- **Price:** Adults: weekdays ¥850, weekends/holidays ¥950 (morning bath ¥100 off). Banseki 'Forest Villa': +¥600 weekdays / +¥800 weekends. Overnight rest from +¥3,600 (tax incl.)
+- **Food & drink:** Yes — On-site dining available
+- **Sauna:** Bazooka Löyly Sauna (auto-löyly at :00 and :30 every hour), Medi Sauna (self-löyly), Ochre Sauna (approx. 85–90°C), women-only Salt Sauna
+- **Hot spring:** Open-air panoramic bath 'Tenku Hotaru no Yu', high-concentration carbonated bath, source bath, and more
+- **✨ What sets it apart:** Large complex featuring bi-hourly Bazooka Löyly, a ~9°C single cold bath, a panoramic open-air bath, and a banseki zone with 10,000 manga books
+- **💬 Note:** Outstanding value with superb sauna and great views—you could easily spend a whole day here. (auto-inferred)
+
 ### 大阪府 / Osaka
 
 #### [Solaniwa Onsen OSAKA BAY TOWER](https://www.solaniwa.com/)

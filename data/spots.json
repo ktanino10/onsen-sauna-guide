@@ -241,5 +241,89 @@
     "photo": null,
     "added_at": "2026-07-08",
     "source_issue": null
+  },
+  {
+    "id": "solaniwa-onsen-osaka",
+    "url": "https://www.solaniwa.com/",
+    "name": {
+      "ja": "空庭温泉 OSAKA BAY TOWER",
+      "en": "Solaniwa Onsen OSAKA BAY TOWER"
+    },
+    "prefecture_code": 27,
+    "prefecture": {
+      "ja": "大阪府",
+      "en": "Osaka"
+    },
+    "city": {
+      "ja": "大阪市港区",
+      "en": "Minato Ward, Osaka City"
+    },
+    "address": {
+      "ja": "大阪府大阪市港区弁天1丁目2-3",
+      "en": "1-2-3 Benten, Minato Ward, Osaka City, Osaka"
+    },
+    "geo": {
+      "lat": 34.6757,
+      "lng": 135.458
+    },
+    "access": {
+      "ja": "JR大阪環状線・大阪メトロ中央線「弁天町」駅直結（改札から徒歩約1分）",
+      "en": "Directly connected to Bentencho Station (JR Osaka Loop Line / Osaka Metro Chuo Line), about 1 min from the ticket gates"
+    },
+    "stay": true,
+    "gender_policy": "separate",
+    "view": {
+      "rating": 5,
+      "ja": "1,000坪の屋上日本庭園が圧巻。季節のライトアップや足湯も楽しめる",
+      "en": "A stunning 1,000-tsubo rooftop Japanese garden with seasonal illuminations and a footbath",
+      "_inferred": true
+    },
+    "work_friendly": {
+      "rating": 3,
+      "wifi": true,
+      "power": null,
+      "ja": "館内Wi-Fi完備、リクライナーや漫画コーナーなど休憩スペースが充実",
+      "en": "Free in-facility Wi-Fi, recliners, and a manga corner for long stays",
+      "_inferred": true
+    },
+    "recommended_for": [
+      "solo",
+      "friends",
+      "couple"
+    ],
+    "price": {
+      "ja": "大人2,310円〜3,630円（曜日・時間帯で変動。岩盤浴は別途1,100円〜。公式サイト要確認）",
+      "en": "Adults ¥2,310–¥3,630 (varies by day/time; banseki extra from ¥1,100; check official site)"
+    },
+    "food": {
+      "available": true,
+      "ja": "2Fに「食い倒れ横丁」など複数のレストラン・カフェあり",
+      "en": "Multiple restaurants and cafes on 2F, including an Osaka street-food themed area"
+    },
+    "sauna": {
+      "temp": 86,
+      "cold_bath": "16℃の水風呂・外気浴スペース完備、テントサウナ付き貸切個室あり（1室）",
+      "loyly": true,
+      "ja": "ドライサウナ（80〜86℃）にオートロウリュが毎時2回。女性専用ミストサウナ・岩盤浴7種も",
+      "en": "Dry sauna at 80–86°C with auto-löyly twice per hour; women's mist sauna and 7 types of banseki available"
+    },
+    "onsen": {
+      "spring_type": "低張性弱アルカリ性高温泉",
+      "flowing": true,
+      "ja": "地下1,000mから汲み上げた天然温泉（低張性・弱アルカリ性・高温泉）。源泉かけ流しの露天風呂ほか9種以上のお風呂",
+      "en": "Natural hot spring drawn from 1,000m underground (hypotonic, mildly alkaline); open-air flowing bath and 9+ types of baths"
+    },
+    "unique_point": {
+      "ja": "関西最大級の温泉型テーマパーク。1,000坪の屋上日本庭園、貸切露天風呂10室、テントサウナ付き個室など非日常体験が充実",
+      "en": "Kansai's largest hot-spring theme park with a 1,000-tsubo rooftop garden, 10 private open-air baths, and a private tent-sauna suite"
+    },
+    "personal_comment": {
+      "ja": "駅直結とは思えない本格的な日本庭園と天然温泉で、大阪観光の締めくくりにも最高。",
+      "en": "A full-scale Japanese garden and natural hot spring right above the station—perfect for capping off a day in Osaka.",
+      "_inferred": true
+    },
+    "photo": null,
+    "added_at": "2026-07-09",
+    "source_issue": 4
   }
 ]

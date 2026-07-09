@@ -87,6 +87,25 @@ Each entry covers location, whether you can stay overnight, the men's/women's po
 - **✨ What sets it apart:** Revered as a 'sauna mecca' for its flowing natural spring-water cold bath
 - **💬 Note:** Worth visiting at least once for the quality of the cold bath water. (auto-inferred)
 
+### 大阪府 / Osaka
+
+#### [Solaniwa Onsen OSAKA BAY TOWER](https://www.solaniwa.com/)
+
+📍 1-2-3 Benten, Minato Ward, Osaka City, Osaka
+
+- **Access:** Directly connected to Bentencho Station (JR Osaka Loop Line / Osaka Metro Chuo Line), about 1 min from the ticket gates
+- **Stay:** Can stay overnight
+- **Gender:** Separate men's / women's
+- **Go with:** Solo / Friends / Couple
+- **View:** ★★★★★ — A stunning 1,000-tsubo rooftop Japanese garden with seasonal illuminations and a footbath (auto-inferred)
+- **Work-friendly:** ★★★☆☆ — Free in-facility Wi-Fi, recliners, and a manga corner for long stays (auto-inferred)
+- **Price:** Adults ¥2,310–¥3,630 (varies by day/time; banseki extra from ¥1,100; check official site)
+- **Food & drink:** Yes — Multiple restaurants and cafes on 2F, including an Osaka street-food themed area
+- **Sauna:** Dry sauna at 80–86°C with auto-löyly twice per hour; women's mist sauna and 7 types of banseki available
+- **Hot spring:** Natural hot spring drawn from 1,000m underground (hypotonic, mildly alkaline); open-air flowing bath and 9+ types of baths
+- **✨ What sets it apart:** Kansai's largest hot-spring theme park with a 1,000-tsubo rooftop garden, 10 private open-air baths, and a private tent-sauna suite
+- **💬 Note:** A full-scale Japanese garden and natural hot spring right above the station—perfect for capping off a day in Osaka. (auto-inferred)
+
 
 <!-- SPOTS:END -->
 

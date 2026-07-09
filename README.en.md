@@ -35,42 +35,7 @@ Each entry covers location, whether you can stay overnight, the men's/women's po
 
 <!-- SPOTS:START -->
 
-### 東京都 / Tokyo
-
-#### [Spa LaQua](https://www.laqua.jp/spa/)
-
-📍 Tokyo Dome City, 1-1-1 Kasuga, Bunkyo City, Tokyo
-
-- **Access:** Short walk from Korakuen / Suidobashi Station
-- **Stay:** Day-use only
-- **Gender:** Separate men's / women's
-- **Go with:** Solo / Friends / Couple
-- **View:** ★★☆☆☆ — Urban indoor spa; limited view (auto-inferred)
-- **Work-friendly:** ★★★☆☆ — Has relaxation lounges; comfortable for longer stays (auto-inferred)
-- **Price:** Adults from approx. 3,000 JPY (varies; check official site)
-- **Food & drink:** Yes — Restaurants and cafes on site
-- **Sauna:** Various saunas incl. loyly
-- **Hot spring:** Natural hot spring drawn from approx. 1,700m underground
-- **✨ What sets it apart:** Large natural hot-spring spa in central Tokyo Dome City with excellent access
-- **💬 Note:** A handy spot to relax and recharge in central Tokyo. (auto-inferred)
-
-### 静岡県 / Shizuoka
-
-#### [Sauna Shikiji](https://saunashikiji.jp/)
-
-📍 2-25-1 Shikiji, Suruga Ward, Shizuoka City, Shizuoka
-
-- **Access:** Bus or taxi from JR Shizuoka Station
-- **Stay:** Day-use only
-- **Gender:** Separate men's / women's
-- **Go with:** Solo / Friends
-- **Work-friendly:** ★☆☆☆☆ — A dedicated sauna facility; not suited for PC work (auto-inferred)
-- **Price:** Prices differ by gender area (check official site)
-- **Food & drink:** Yes — Dining area available on site
-- **Sauna:** Famous nationwide for its natural spring-water cold bath
-- **✨ What sets it apart:** Revered as a 'sauna mecca' for its flowing natural spring-water cold bath
-- **💬 Note:** Worth visiting at least once for the quality of the cold bath water. (auto-inferred)
-
+*No spots yet. Paste a facility URL into an Issue and assign Copilot to add one.*
 
 <!-- SPOTS:END -->
 

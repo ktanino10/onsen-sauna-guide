@@ -10,8 +10,8 @@ Each entry covers location, whether you can stay overnight, the men's/women's po
 
 ## 🧭 How to add a spot (just paste a URL)
 
-1. Go to **Issues → New issue → "♨️ 温泉サウナを追加 / Add a spot"**.
-2. **Paste the facility's official website URL** and create the issue (that's the only input needed).
+1. Go to **Issues → New issue → "♨️ 温泉サウナを追加 / Add spot(s)"**.
+2. **Paste the facility's official website URL** and create the issue. To add **several spots at once, put one URL per line**.
 3. **Assign the issue to Copilot**.
 4. Copilot reads the page, appends the details to `data/spots.json`, and **automatically updates** this README and the live site in a pull request.
 5. Merge the PR and it appears in the list.

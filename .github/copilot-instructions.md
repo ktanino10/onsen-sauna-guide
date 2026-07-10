@@ -8,10 +8,11 @@ GitHub Pages site ([`index.html`](../index.html)) are both generated from that f
 
 When you are assigned an issue labeled **`add-spot`** (title starts with `[Add]`):
 
-1. **Read the official URL** from the issue body.
+1. **Read the official URL(s)** from the issue body. The issue may list **multiple URLs, one per
+   line** — process **every** URL (add/refresh one spot per URL, all in the same pull request).
 2. **Fetch and read the page** (use your web/browsing tools; fall back to `curl -L <url>`).
    Follow obvious sub-pages when helpful (access, pricing, facility/sauna info).
-3. **Add one new object** to the array in `data/spots.json`, following the schema below.
+3. **Add one new object per URL** to the array in `data/spots.json`, following the schema below.
    - Fill **objective** fields from the page. If something is not stated, use `null` — **never invent
      concrete facts** (address, price, hours, gender policy, etc.).
    - **Best-effort infer** the **subjective** fields (`view`, `work_friendly`, `recommended_for`,
@@ -25,8 +26,8 @@ When you are assigned an issue labeled **`add-spot`** (title starts with `[Add]`
      a maps link, or clearly stated coordinates). Otherwise use `null`.
    - `id`: a unique lowercase slug, e.g. `sauna-shikiji-shizuoka`.
    - `added_at`: today's date (`YYYY-MM-DD`). `source_issue`: the issue number.
-4. **De-duplicate**: if an entry with the same `url` already exists, **update that entry** instead of
-   adding a duplicate.
+4. **De-duplicate** (per URL): if an entry with the same `url` already exists, **update that entry**
+   instead of adding a duplicate.
 5. **Regenerate** by running:
    ```bash
    python scripts/build_readme.py
@@ -34,7 +35,8 @@ When you are assigned an issue labeled **`add-spot`** (title starts with `[Add]`
    This sorts `data/spots.json` by prefecture, and rewrites the `<!-- SPOTS:START -->`…`<!-- SPOTS:END -->`
    sections of `README.md` and `README.en.md`. **Do not hand-edit those sections or hand-sort the JSON** —
    the script owns ordering (always by prefecture, never by insertion order).
-6. **Commit** the changed `data/spots.json`, `README.md`, and `README.en.md`, and open the pull request.
+6. **Commit** the changed `data/spots.json`, `README.md`, and `README.en.md` (with **all** spots from
+   the issue), and open a single pull request.
 
 ## `data/spots.json` schema (one object per spot)
 

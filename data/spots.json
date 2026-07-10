@@ -80,6 +80,89 @@
     "source_issue": 1
   },
   {
+    "id": "paradise-mita-tokyo",
+    "url": "https://paradise-mita.com/",
+    "name": {
+      "ja": "PARADISE 三田",
+      "en": "PARADISE Mita"
+    },
+    "prefecture_code": 13,
+    "prefecture": {
+      "ja": "東京都",
+      "en": "Tokyo"
+    },
+    "city": {
+      "ja": "港区",
+      "en": "Minato City"
+    },
+    "address": {
+      "ja": "東京都港区芝5-23-16",
+      "en": "5-23-16 Shiba, Minato City, Tokyo"
+    },
+    "geo": {
+      "lat": 35.64848,
+      "lng": 139.74717
+    },
+    "access": {
+      "ja": "JR田町駅・都営三田線／浅草線三田駅より徒歩5分",
+      "en": "5 min walk from JR Tamachi Station or Toei Mita/Asakusa Line Mita Station"
+    },
+    "stay": false,
+    "gender_policy": "men_only",
+    "view": {
+      "rating": 2,
+      "ja": "屋内型施設のため眺望はないが、和の内装が落ち着いた雰囲気を演出",
+      "en": "Indoor facility with no views, but a calming Japanese-inspired interior",
+      "_inferred": true
+    },
+    "work_friendly": {
+      "rating": 2,
+      "wifi": null,
+      "power": null,
+      "ja": "PCスペースやコワーキングエリアはなし。純喫茶風の休憩室でドリンクを楽しめる",
+      "en": "No PC space or coworking area; a cafe-style lounge is available for drinks",
+      "_inferred": true
+    },
+    "recommended_for": [
+      "solo",
+      "friends"
+    ],
+    "price": {
+      "ja": "平日：最初の30分1,000円・以降10分ごと250円。休日：最初の30分1,100円。個室サウナ（2時間）4,000円。完全キャッシュレス",
+      "en": "Weekdays: first 30 min ¥1,000, then ¥250/10 min. Weekends: first 30 min ¥1,100. Private sauna (2 hr) ¥4,000. Cashless only"
+    },
+    "food": {
+      "available": true,
+      "ja": "純喫茶風の休憩室でドリンク販売あり",
+      "en": "Drinks available in the cafe-style lounge"
+    },
+    "sauna": {
+      "temp": null,
+      "cold_bath": "10℃未満のシングル水風呂と16℃の水風呂の2種",
+      "loyly": true,
+      "ja": "国産檜材使用のサウナ（約20名収容）、セルフロウリュ可、時計なしの薄暗い空間。個室サウナ（寝サウナ可・要予約）もあり",
+      "en": "Sauna clad in domestic cypress (approx. 20 persons), self-löyly, dim and clockless interior. Private reclining sauna available by reservation"
+    },
+    "onsen": {
+      "spring_type": null,
+      "flowing": null,
+      "ja": "天然温泉ではなく一般浴槽",
+      "en": "Not a natural hot spring; standard bathing pool"
+    },
+    "unique_point": {
+      "ja": "元・万才湯銭湯をリノベーションしたサウナシュラン2022選出施設。シングル水風呂（10℃未満）と2階畳の整いスペースが特徴的な男性専用サウナ",
+      "en": "A Sauna Shikiji 2022-selected facility reborn from a former public bathhouse, featuring a sub-10°C cold plunge and a 2F tatami relaxation space"
+    },
+    "personal_comment": {
+      "ja": "シングル水風呂と畳の整いスペースで、地元銭湯文化を受け継ぐ正統派サウナ体験。",
+      "en": "A proper sauna experience carrying on the local bathhouse spirit, with a sub-10°C cold plunge and tatami relaxation.",
+      "_inferred": true
+    },
+    "photo": null,
+    "added_at": "2026-07-10",
+    "source_issue": 13
+  },
+  {
     "id": "urban-quar-nagoya-naka",
     "url": "https://p-castle.co.jp/urban_quar/",
     "name": {

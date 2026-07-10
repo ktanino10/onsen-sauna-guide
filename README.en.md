@@ -53,6 +53,23 @@ Each entry covers location, whether you can stay overnight, the men's/women's po
 - **✨ What sets it apart:** A high-rise complex above Otemachi Station combining sauna, spa, gym, and coworking
 - **💬 Note:** A polished city spot where you can go from work straight into sauna mode. (auto-inferred)
 
+#### [PARADISE Mita](https://paradise-mita.com/)
+
+📍 5-23-16 Shiba, Minato City, Tokyo
+
+- **Access:** 5 min walk from JR Tamachi Station or Toei Mita/Asakusa Line Mita Station
+- **Stay:** Day-use only
+- **Gender:** Men only
+- **Go with:** Solo / Friends
+- **View:** ★★☆☆☆ — Indoor facility with no views, but a calming Japanese-inspired interior (auto-inferred)
+- **Work-friendly:** ★★☆☆☆ — No PC space or coworking area; a cafe-style lounge is available for drinks (auto-inferred)
+- **Price:** Weekdays: first 30 min ¥1,000, then ¥250/10 min. Weekends: first 30 min ¥1,100. Private sauna (2 hr) ¥4,000. Cashless only
+- **Food & drink:** Yes — Drinks available in the cafe-style lounge
+- **Sauna:** Sauna clad in domestic cypress (approx. 20 persons), self-löyly, dim and clockless interior. Private reclining sauna available by reservation
+- **Hot spring:** Not a natural hot spring; standard bathing pool
+- **✨ What sets it apart:** A Sauna Shikiji 2022-selected facility reborn from a former public bathhouse, featuring a sub-10°C cold plunge and a 2F tatami relaxation space
+- **💬 Note:** A proper sauna experience carrying on the local bathhouse spirit, with a sub-10°C cold plunge and tatami relaxation. (auto-inferred)
+
 ### 愛知県 / Aichi
 
 #### [Urban Quar Natural Hot Spring SPA & LIVING](https://p-castle.co.jp/urban_quar/)

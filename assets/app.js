@@ -264,7 +264,12 @@
     var card = document.getElementById('card-' + id);
     if (card) {
       card.classList.add('active');
-      card.scrollIntoView({ behavior: 'smooth', block: 'center' });
+      // Use 'nearest' so an already-visible card is NOT re-scrolled. Scrolling a
+      // visible card to 'center' pushed the filter controls up under the sticky
+      // header (z-index 1000), where the header intercepted their clicks and
+      // visually dimmed them. scroll-margin-top (CSS) keeps any real scroll clear
+      // of the header.
+      card.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
       setTimeout(function () { card.classList.remove('active'); }, 2200);
     }
   }

@@ -70,6 +70,23 @@ Each entry covers location, whether you can stay overnight, the men's/women's po
 - **✨ What sets it apart:** A Sauna Shikiji 2022-selected facility reborn from a former public bathhouse, featuring a sub-10°C cold plunge and a 2F tatami relaxation space
 - **💬 Note:** A proper sauna experience carrying on the local bathhouse spirit, with a sub-10°C cold plunge and tatami relaxation. (auto-inferred)
 
+#### [Toshimaen Niwa no Yu](https://www.seibu-leisure.co.jp/niwanoyu/index.html)
+
+📍 3-25-1 Mukoyama, Nerima City, Tokyo
+
+- **Access:** About 2 min on foot from Seibu Ikebukuro Line Toshimaen Station, or about 3 min from Toei Oedo Line Toshimaen Station
+- **Stay:** Day-use only
+- **Gender:** Separate men's / women's
+- **Go with:** Solo / Friends / Couple
+- **View:** ★★★★★ — The large Japanese garden suggests a very relaxing outdoor setting with standout views (auto-inferred)
+- **Work-friendly:** ★☆☆☆☆ — It looks calm and adult-oriented, but there is no clear mention of work amenities, so it feels best for switching off (auto-inferred)
+- **Price:** Admission is ¥2,520 on weekdays, ¥2,970 on weekends/holidays, and ¥3,070 on designated days. Night spa after 6pm is ¥1,750 weekdays, ¥2,100 weekends/holidays, and ¥2,200 on designated days; lounge wear and towels are included
+- **Food & drink:** Yes — A 2F restaurant, Ryokusuitei, and a bar counter are available
+- **Sauna:** Alongside the gender-separated sauna areas, there is also a Finnish sauna in the swimsuit-required Bade Zone
+- **Hot spring:** A natural hot spring pumped from 1,445m underground, available in outdoor and indoor baths
+- **✨ What sets it apart:** An adult-oriented spa with a Japanese garden view and a swimsuit Bade Zone that mixed groups can enjoy together
+- **💬 Note:** A lovely pick for a slow day of unwinding with garden views. (auto-inferred)
+
 ### 愛知県 / Aichi
 
 #### [Urban Quar Natural Hot Spring SPA & LIVING](https://p-castle.co.jp/urban_quar/)

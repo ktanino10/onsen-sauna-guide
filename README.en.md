@@ -55,6 +55,23 @@ Each entry covers location, whether you can stay overnight, the men's/women's po
 
 ### 愛知県 / Aichi
 
+#### [Urban Quar Natural Hot Spring SPA & LIVING](https://p-castle.co.jp/urban_quar/)
+
+📍 Castle Town Kinenbo 3F, 16-17 Fujimi-cho, Naka Ward, Nagoya City, Aichi
+
+- **Access:** 7 min walk from Higashibetsuin Station (Nagoya Municipal Subway Meijo Line). Free parking for 720 cars
+- **Stay:** Can stay overnight
+- **Gender:** Separate men's / women's
+- **Go with:** Solo / Friends / Couple
+- **View:** ★★☆☆☆ — Urban facility with a natural open-air bath (nano natural outdoor bath) (auto-inferred)
+- **Work-friendly:** ★★★★☆ — In-facility Wi-Fi and PC space; 20,000-title manga/magazine library and free warm drinks for long stays (auto-inferred)
+- **Price:** Hot spring 3-hour pass: weekdays ¥1,050 / weekends ¥1,300. Onkatsu 3-hour pass (hot spring + banseki): weekdays ¥1,250 / weekends ¥1,500. Late-night stay (1:30–10:00) +¥2,180
+- **Food & drink:** Yes — On-site restaurant and cafe
+- **Sauna:** Tenku Sauna (silent zone with auto-löyly every 30 min), high-temp sauna (~90°C, double stove), mist sauna (foot bath + recline bath combo), and a 50-person Finnish sauna in the banseki zone with daily löyly events
+- **Hot spring:** Natural hot spring drawn from 800m underground (hypotonic, mildly alkaline, 25.1°C). Variety of baths including source bath, carbonated bath, nano outdoor bath, jet bath, and electric bath
+- **✨ What sets it apart:** City-centre urban wellness facility with an affordable pricing structure, a silent 'Tenku Sauna', 20,000 manga titles, free drinks, and a PC space—designed to feel like a home away from home
+- **💬 Note:** Incredible value with everything you need—sauna, work, and relaxation all in one city spot. (auto-inferred)
+
 #### [Tenku SPA Hills Ryusenji no Yu Nagoya Moriyama](https://www.ryusenjinoyu.com/moriyama/)
 
 📍 1501 Ryusenji 1-chome, Moriyama Ward, Nagoya City, Aichi

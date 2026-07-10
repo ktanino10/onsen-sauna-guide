@@ -80,6 +80,90 @@
     "source_issue": 1
   },
   {
+    "id": "urban-quar-nagoya-naka",
+    "url": "https://p-castle.co.jp/urban_quar/",
+    "name": {
+      "ja": "天然温泉アーバンクア SPA＆LIVING",
+      "en": "Urban Quar Natural Hot Spring SPA & LIVING"
+    },
+    "prefecture_code": 23,
+    "prefecture": {
+      "ja": "愛知県",
+      "en": "Aichi"
+    },
+    "city": {
+      "ja": "名古屋市中区",
+      "en": "Naka Ward, Nagoya City"
+    },
+    "address": {
+      "ja": "愛知県名古屋市中区富士見町16-17 キャッスルタウン記念橋3F",
+      "en": "Castle Town Kinenbo 3F, 16-17 Fujimi-cho, Naka Ward, Nagoya City, Aichi"
+    },
+    "geo": {
+      "lat": 35.1518,
+      "lng": 136.9083
+    },
+    "access": {
+      "ja": "地下鉄名城線・東別院駅より徒歩7分。無料駐車場720台完備",
+      "en": "7 min walk from Higashibetsuin Station (Nagoya Municipal Subway Meijo Line). Free parking for 720 cars"
+    },
+    "stay": true,
+    "gender_policy": "separate",
+    "view": {
+      "rating": 2,
+      "ja": "都市型施設だが天然露天風呂（ナノ天然露天風呂）あり",
+      "en": "Urban facility with a natural open-air bath (nano natural outdoor bath)",
+      "_inferred": true
+    },
+    "work_friendly": {
+      "rating": 4,
+      "wifi": true,
+      "power": null,
+      "ja": "館内Wi-Fi・PCスペース完備。2万冊のコミック・雑誌、コーヒーなど温活ドリンク無料で長時間滞在しやすい",
+      "en": "In-facility Wi-Fi and PC space; 20,000-title manga/magazine library and free warm drinks for long stays",
+      "_inferred": true
+    },
+    "recommended_for": [
+      "solo",
+      "friends",
+      "couple"
+    ],
+    "price": {
+      "ja": "温泉3時間コース：平日1,050円・休日1,300円。温活3時間コース（温泉＋岩盤浴）：平日1,250円・休日1,500円。深夜滞在（1:30〜翌10:00）は+2,180円",
+      "en": "Hot spring 3-hour pass: weekdays ¥1,050 / weekends ¥1,300. Onkatsu 3-hour pass (hot spring + banseki): weekdays ¥1,250 / weekends ¥1,500. Late-night stay (1:30–10:00) +¥2,180"
+    },
+    "food": {
+      "available": true,
+      "ja": "館内にレストラン・カフェ併設",
+      "en": "On-site restaurant and cafe"
+    },
+    "sauna": {
+      "temp": 90,
+      "cold_bath": "男性14℃・女性15.7℃の水風呂（深め）",
+      "loyly": true,
+      "ja": "天空サウナ（完全黙浴エリア・30分ごとオートロウリュ）、高温サウナ（約90℃・ダブルストーブ）、ミストサウナ（足湯・寝湯一体型）、岩盤浴エリアに50人規模のフィンランドサウナあり・毎日ロウリュウイベント開催",
+      "en": "Tenku Sauna (silent zone with auto-löyly every 30 min), high-temp sauna (~90°C, double stove), mist sauna (foot bath + recline bath combo), and a 50-person Finnish sauna in the banseki zone with daily löyly events"
+    },
+    "onsen": {
+      "spring_type": "低張性弱アルカリ性低温泉（25.1℃）",
+      "flowing": null,
+      "ja": "地下800mから湧出する天然温泉。源泉風呂・炭酸泉・ナノ天然露天風呂・ジェットバス・電気風呂など多彩な浴槽",
+      "en": "Natural hot spring drawn from 800m underground (hypotonic, mildly alkaline, 25.1°C). Variety of baths including source bath, carbonated bath, nano outdoor bath, jet bath, and electric bath"
+    },
+    "unique_point": {
+      "ja": "都心立地でリーズナブルな料金体系、完全黙浴の天空サウナ・2万冊のコミック・無料ドリンク・PCスペースを揃えた「自宅リビング」感覚で使える都市型温活施設",
+      "en": "City-centre urban wellness facility with an affordable pricing structure, a silent 'Tenku Sauna', 20,000 manga titles, free drinks, and a PC space—designed to feel like a home away from home"
+    },
+    "personal_comment": {
+      "ja": "料金も設備もコスパ抜群で、仕事もサウナも全部こなせるすごい場所。",
+      "en": "Incredible value with everything you need—sauna, work, and relaxation all in one city spot.",
+      "_inferred": true
+    },
+    "photo": null,
+    "added_at": "2026-07-10",
+    "source_issue": 11
+  },
+  {
     "id": "ryusenji-no-yu-nagoya-moriyama",
     "url": "https://www.ryusenjinoyu.com/moriyama/",
     "name": {

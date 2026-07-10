@@ -19,7 +19,10 @@
       "ja": "東京都千代田区大手町2丁目1-1 大成大手町ビル25・26階",
       "en": "Taisei Otemachi Building 25F/26F, 2-1-1 Otemachi, Chiyoda City, Tokyo"
     },
-    "geo": null,
+    "geo": {
+      "lat": 35.6853,
+      "lng": 139.7662
+    },
     "access": {
       "ja": "大手町駅B2a出口直結で徒歩約3分、JR東京駅丸の内北口から徒歩約5分",
       "en": "About 3 min via Otemachi Station Exit B2a, or about 5 min on foot from JR Tokyo Station Marunouchi North Exit"

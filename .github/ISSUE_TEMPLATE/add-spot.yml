@@ -1,5 +1,5 @@
-name: "♨️ 温泉サウナを追加 / Add a spot"
-description: "施設の公式サイトURLを貼るだけ。Copilotをアサインすると自動で追加されます。/ Just paste the URL, then assign Copilot."
+name: "♨️ 温泉サウナを追加 / Add spot(s)"
+description: "施設の公式サイトURLを貼るだけ（複数まとめてOK）。Copilotをアサインすると自動で追加されます。/ Paste one or more URLs, then assign Copilot."
 title: "[Add] "
 labels: ["add-spot"]
 body:
@@ -7,16 +7,20 @@ body:
     attributes:
       value: |
         施設の**公式サイトのURL**を貼り付けて Issue を作成し、この Issue を **Copilot にアサイン**してください。
-        Copilot がページを読み取り、`data/spots.json`・README・公開サイトを自動で更新します。入力は URL だけで大丈夫です。
+        **複数の施設をまとめて追加できます** — URL を **1行に1つ** 貼り付けてください。
+        Copilot が各ページを読み取り、`data/spots.json`・README・公開サイトを自動で更新します。入力は URL だけで大丈夫です。
 
         ---
-        Paste the facility's **official website URL**, create the issue, then **assign it to Copilot**.
-        Copilot reads the page and updates `data/spots.json`, the READMEs and the site automatically. The URL is all you need.
-  - type: input
-    id: url
+        Paste the facility's **official website URL(s)**, create the issue, then **assign it to Copilot**.
+        You can add **multiple spots at once** — put **one URL per line**.
+        Copilot reads each page and updates `data/spots.json`, the READMEs and the site automatically. The URL is all you need.
+  - type: textarea
+    id: urls
     attributes:
-      label: "公式サイトURL / Official site URL"
-      description: "温泉・サウナ施設の公式ページのURL / URL of the onsen or sauna facility"
-      placeholder: "https://example.com/"
+      label: "公式サイトURL / Official site URL(s)"
+      description: "1行に1つ。複数の施設をまとめて追加できます。/ One URL per line. Add multiple spots at once."
+      placeholder: |
+        https://example-onsen.com/
+        https://example-sauna.jp/
     validations:
       required: true

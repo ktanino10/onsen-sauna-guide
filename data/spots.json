@@ -166,6 +166,88 @@
     "source_issue": 13
   },
   {
+    "id": "toshimaen-niwa-no-yu-nerima",
+    "url": "https://www.seibu-leisure.co.jp/niwanoyu/index.html",
+    "name": {
+      "ja": "豊島園 庭の湯",
+      "en": "Toshimaen Niwa no Yu"
+    },
+    "prefecture_code": 13,
+    "prefecture": {
+      "ja": "東京都",
+      "en": "Tokyo"
+    },
+    "city": {
+      "ja": "練馬区",
+      "en": "Nerima City"
+    },
+    "address": {
+      "ja": "東京都練馬区向山3-25-1",
+      "en": "3-25-1 Mukoyama, Nerima City, Tokyo"
+    },
+    "geo": null,
+    "access": {
+      "ja": "西武池袋線「豊島園」駅から徒歩約2分、都営大江戸線「豊島園」駅から徒歩約3分",
+      "en": "About 2 min on foot from Seibu Ikebukuro Line Toshimaen Station, or about 3 min from Toei Oedo Line Toshimaen Station"
+    },
+    "stay": false,
+    "gender_policy": "separate",
+    "view": {
+      "rating": 5,
+      "ja": "約1,200坪の日本庭園を眺めながら露天エリアでゆったり過ごせそう",
+      "en": "The large Japanese garden suggests a very relaxing outdoor setting with standout views",
+      "_inferred": true
+    },
+    "work_friendly": {
+      "rating": 1,
+      "wifi": null,
+      "power": null,
+      "ja": "静かな大人向けスパだが、PC作業向け設備の案内は見当たらず、基本はオフ向き",
+      "en": "It looks calm and adult-oriented, but there is no clear mention of work amenities, so it feels best for switching off",
+      "_inferred": true
+    },
+    "recommended_for": [
+      "solo",
+      "friends",
+      "couple"
+    ],
+    "price": {
+      "ja": "入館料は平日2,520円、土日祝2,970円、特定日3,070円。18時以降のナイトスパは平日1,750円、土日祝2,100円、特定日2,200円。館内着・タオルセット込み",
+      "en": "Admission is ¥2,520 on weekdays, ¥2,970 on weekends/holidays, and ¥3,070 on designated days. Night spa after 6pm is ¥1,750 weekdays, ¥2,100 weekends/holidays, and ¥2,200 on designated days; lounge wear and towels are included"
+    },
+    "food": {
+      "available": true,
+      "ja": "2階にレストラン「緑水亭」とバーカウンターあり",
+      "en": "A 2F restaurant, Ryokusuitei, and a bar counter are available"
+    },
+    "sauna": {
+      "temp": null,
+      "cold_bath": null,
+      "loyly": null,
+      "ja": "男女別エリアのサウナに加え、水着着用のバーデゾーンにフィンランドサウナがある",
+      "en": "Alongside the gender-separated sauna areas, there is also a Finnish sauna in the swimsuit-required Bade Zone"
+    },
+    "onsen": {
+      "spring_type": "含よう素-ナトリウム-塩化物強塩温泉",
+      "flowing": null,
+      "ja": "地下1,445mから汲み上げる天然温泉。露天風呂や内湯で楽しめる",
+      "en": "A natural hot spring pumped from 1,445m underground, available in outdoor and indoor baths"
+    },
+    "unique_point": {
+      "ja": "日本庭園を望む大人向けスパで、水着で入る男女共用バーデゾーンも一緒に楽しめる",
+      "en": "An adult-oriented spa with a Japanese garden view and a swimsuit Bade Zone that mixed groups can enjoy together",
+      "_inferred": true
+    },
+    "personal_comment": {
+      "ja": "庭園を眺めながら、落ち着いて一日ほどけたい日にぴったり。",
+      "en": "A lovely pick for a slow day of unwinding with garden views.",
+      "_inferred": true
+    },
+    "photo": null,
+    "added_at": "2026-07-10",
+    "source_issue": 17
+  },
+  {
     "id": "urban-quar-nagoya-naka",
     "url": "https://p-castle.co.jp/urban_quar/",
     "name": {

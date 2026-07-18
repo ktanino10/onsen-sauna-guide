@@ -1,5 +1,86 @@
 [
   {
+    "id": "kirari-bettei-tsukuba",
+    "url": "https://www.yurakirari.com/kirari/tsukuba/",
+    "name": {
+      "ja": "つくば温泉 喜楽里別邸",
+      "en": "Tsukuba Onsen Kirari Bettei"
+    },
+    "prefecture_code": 8,
+    "prefecture": {
+      "ja": "茨城県",
+      "en": "Ibaraki"
+    },
+    "city": {
+      "ja": "つくば市",
+      "en": "Tsukuba City"
+    },
+    "address": {
+      "ja": "茨城県つくば市西大橋614-1",
+      "en": "614-1 Nishi-ohashi, Tsukuba City, Ibaraki"
+    },
+    "geo": null,
+    "access": {
+      "ja": "つくばエクスプレス「研究学園駅」南口から徒歩約15分。つくバス谷田部シャトル「大境」下車徒歩約3分。無料駐車場あり",
+      "en": "About a 15-minute walk from TX Kenkyu-gakuen Station (South Exit), or about 3 minutes on foot from Oosakai bus stop on the Tsuku-bus Yatabe Shuttle. Free parking available"
+    },
+    "stay": null,
+    "gender_policy": null,
+    "view": {
+      "rating": 3,
+      "ja": "露天エリア中心の落ち着いた雰囲気で、湯あみをゆったり楽しめそう",
+      "en": "The open-air focused layout suggests a calm, relaxing bathing atmosphere",
+      "_inferred": true
+    },
+    "work_friendly": {
+      "rating": 2,
+      "wifi": null,
+      "power": null,
+      "ja": "温浴を中心に過ごす施設で、PC作業向け設備の情報は見当たらない",
+      "en": "This appears to be bath-focused, with no clear information on PC-work amenities",
+      "_inferred": true
+    },
+    "recommended_for": [
+      "solo",
+      "friends",
+      "couple"
+    ],
+    "price": {
+      "ja": "大人（中学生以上）平日1,300円・土日祝1,500円。小学生は平日750円・土日祝850円。温熱房（岩盤浴）は平日450円・土日祝600円",
+      "en": "Adults (junior high and up): ¥1,300 weekdays / ¥1,500 weekends & holidays; elementary school: ¥750 weekdays / ¥850 weekends & holidays. Heated stone area: ¥450 weekdays / ¥600 weekends & holidays"
+    },
+    "food": {
+      "available": true,
+      "ja": "館内に食事処あり",
+      "en": "On-site dining is available"
+    },
+    "sauna": {
+      "temp": null,
+      "cold_bath": "水風呂あり",
+      "loyly": true,
+      "ja": "ロウリュウサウナ（オートロウリュ）と水風呂を利用できる",
+      "en": "Includes a löyly sauna (auto-löyly) and a cold bath"
+    },
+    "onsen": {
+      "spring_type": "ナトリウム-塩化物泉（低張性・弱アルカリ性）",
+      "flowing": null,
+      "ja": "地下1,620mから湧出する天然温泉を楽しめる",
+      "en": "Natural hot spring water drawn from 1,620m underground"
+    },
+    "unique_point": {
+      "ja": "大人向けの静かな空間で、温泉・ロウリュサウナ・岩盤浴をまとめて楽しめる",
+      "en": "A calm adult-oriented setting combining hot springs, löyly sauna, and stone-bath options"
+    },
+    "personal_comment": {
+      "ja": "郊外でゆっくり整いたい日にぴったりの落ち着いた一軒。",
+      "en": "A calm spot that feels perfect for a slow reset outside the city.",
+      "_inferred": true
+    },
+    "photo": null,
+    "added_at": "2026-07-18",
+    "source_issue": 19
+  },
+  {
     "id": "paradise-otemachi-tokyo",
     "url": "https://paradise-otemachi.com/",
     "name": {
@@ -246,6 +327,86 @@
     "photo": null,
     "added_at": "2026-07-10",
     "source_issue": 17
+  },
+  {
+    "id": "sauna-fuji-nagoya-sakae",
+    "url": "https://fto.co.jp/",
+    "name": {
+      "ja": "サウナフジ（カプセル＆サウナ フジ）",
+      "en": "Sauna Fuji (Capsule & Sauna Fuji)"
+    },
+    "prefecture_code": 23,
+    "prefecture": {
+      "ja": "愛知県",
+      "en": "Aichi"
+    },
+    "city": {
+      "ja": "名古屋市中区",
+      "en": "Naka Ward, Nagoya City"
+    },
+    "address": {
+      "ja": "愛知県名古屋市中区錦3-22-31",
+      "en": "3-22-31 Nishiki, Naka Ward, Nagoya City, Aichi"
+    },
+    "geo": null,
+    "access": {
+      "ja": "地下鉄「栄」駅8番出口から徒歩約5分",
+      "en": "About a 5-minute walk from Sakae Station Exit 8"
+    },
+    "stay": true,
+    "gender_policy": null,
+    "view": {
+      "rating": 1,
+      "ja": "都心の屋内施設で、景観よりもサウナ体験重視のつくり",
+      "en": "An indoor urban facility focused on sauna experiences rather than views",
+      "_inferred": true
+    },
+    "work_friendly": {
+      "rating": 3,
+      "wifi": true,
+      "power": null,
+      "ja": "Wi-Fiやコワーキング利用ができ、短時間の作業休憩にも使いやすそう",
+      "en": "Wi-Fi and coworking availability suggest it can handle short work breaks",
+      "_inferred": true
+    },
+    "recommended_for": [
+      "solo",
+      "friends"
+    ],
+    "price": {
+      "ja": "サウナ入泉は平日2,500円・土日祝2,700円。深夜入泉は平日3,500円・土日祝3,700円。60分サウナは1,500円。カプセル宿泊は4,500円〜",
+      "en": "Sauna admission: ¥2,500 weekdays / ¥2,700 weekends & holidays; late-night admission: ¥3,500 weekdays / ¥3,700 weekends & holidays; 60-minute sauna: ¥1,500; capsule stay from ¥4,500"
+    },
+    "food": {
+      "available": true,
+      "ja": "館内レストランあり",
+      "en": "An on-site restaurant is available"
+    },
+    "sauna": {
+      "temp": 90,
+      "cold_bath": "14℃前後の冷水浴槽と25℃前後の冷水浴槽",
+      "loyly": true,
+      "ja": "高温サウナ（80〜90℃）に加え、スチームサウナやロウリュ対応サウナを備える",
+      "en": "Features a high-temperature sauna (80–90°C), plus steam and löyly-enabled sauna options"
+    },
+    "onsen": {
+      "spring_type": null,
+      "flowing": null,
+      "ja": "天然温泉の記載はなく、大浴場や各種浴槽を備える",
+      "en": "No natural spring type is stated; large baths and multiple tub types are available"
+    },
+    "unique_point": {
+      "ja": "名古屋中心部で20mプール感覚の大型浴槽と複数サウナを一度に楽しめる大型施設",
+      "en": "A large city-center complex with a 20m pool-like bath and multiple sauna styles in one place"
+    },
+    "personal_comment": {
+      "ja": "都心でしっかり汗をかいて、そのまま休める頼れる拠点。",
+      "en": "A reliable downtown base to sweat hard and recover in one stop.",
+      "_inferred": true
+    },
+    "photo": null,
+    "added_at": "2026-07-18",
+    "source_issue": 19
   },
   {
     "id": "urban-quar-nagoya-naka",

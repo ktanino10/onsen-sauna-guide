@@ -35,6 +35,24 @@ Each entry covers location, whether you can stay overnight, the men's/women's po
 
 <!-- SPOTS:START -->
 
+### 茨城県 / Ibaraki
+
+#### [Tsukuba Onsen Kirari Bettei](https://www.yurakirari.com/kirari/tsukuba/)
+
+📍 614-1 Nishi-ohashi, Tsukuba City, Ibaraki
+
+- **Access:** About a 15-minute walk from TX Kenkyu-gakuen Station (South Exit), or about 3 minutes on foot from Oosakai bus stop on the Tsuku-bus Yatabe Shuttle. Free parking available
+- **Stay:** Unknown
+- **Go with:** Solo / Friends / Couple
+- **View:** ★★★☆☆ — The open-air focused layout suggests a calm, relaxing bathing atmosphere (auto-inferred)
+- **Work-friendly:** ★★☆☆☆ — This appears to be bath-focused, with no clear information on PC-work amenities (auto-inferred)
+- **Price:** Adults (junior high and up): ¥1,300 weekdays / ¥1,500 weekends & holidays; elementary school: ¥750 weekdays / ¥850 weekends & holidays. Heated stone area: ¥450 weekdays / ¥600 weekends & holidays
+- **Food & drink:** Yes — On-site dining is available
+- **Sauna:** Includes a löyly sauna (auto-löyly) and a cold bath
+- **Hot spring:** Natural hot spring water drawn from 1,620m underground
+- **✨ What sets it apart:** A calm adult-oriented setting combining hot springs, löyly sauna, and stone-bath options
+- **💬 Note:** A calm spot that feels perfect for a slow reset outside the city. (auto-inferred)
+
 ### 東京都 / Tokyo
 
 #### [PARADISE Otemachi](https://paradise-otemachi.com/)
@@ -88,6 +106,22 @@ Each entry covers location, whether you can stay overnight, the men's/women's po
 - **💬 Note:** A lovely pick for a slow day of unwinding with garden views. (auto-inferred)
 
 ### 愛知県 / Aichi
+
+#### [Sauna Fuji (Capsule & Sauna Fuji)](https://fto.co.jp/)
+
+📍 3-22-31 Nishiki, Naka Ward, Nagoya City, Aichi
+
+- **Access:** About a 5-minute walk from Sakae Station Exit 8
+- **Stay:** Can stay overnight
+- **Go with:** Solo / Friends
+- **View:** ★☆☆☆☆ — An indoor urban facility focused on sauna experiences rather than views (auto-inferred)
+- **Work-friendly:** ★★★☆☆ — Wi-Fi and coworking availability suggest it can handle short work breaks (auto-inferred)
+- **Price:** Sauna admission: ¥2,500 weekdays / ¥2,700 weekends & holidays; late-night admission: ¥3,500 weekdays / ¥3,700 weekends & holidays; 60-minute sauna: ¥1,500; capsule stay from ¥4,500
+- **Food & drink:** Yes — An on-site restaurant is available
+- **Sauna:** Features a high-temperature sauna (80–90°C), plus steam and löyly-enabled sauna options
+- **Hot spring:** No natural spring type is stated; large baths and multiple tub types are available
+- **✨ What sets it apart:** A large city-center complex with a 20m pool-like bath and multiple sauna styles in one place
+- **💬 Note:** A reliable downtown base to sweat hard and recover in one stop. (auto-inferred)
 
 #### [Urban Quar Natural Hot Spring SPA & LIVING](https://p-castle.co.jp/urban_quar/)
 
